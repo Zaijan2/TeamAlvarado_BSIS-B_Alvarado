@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>Document</title>
+</head>
+<body>
+  <div class="main">
+    <div class="left">
+        <br>
+        <div class="profile-img"><img src="c:\Users\Almar\Downloads\367976943_170455166069899_1489962180854882430_n.jpg" alt=" "width="150px" ></div>
+        <div class="box-1">
+            <div class="heading">
+                <h6>CONTACT</h6>
+            </div>
+            <p class="p1"><i class="material-icons icons1">call </i>09755084276</p>
+            <p class="p1"><i class="material-icons icons1">email</i>alvaradozaijan@gmail.com</p>
+        </div>
+
+        <div class="box-1">
+            <div class="heading">
+                <p>Languages</p>
+            </div>
+
+            <p class="p1">HTML
+                <div class="skill-container">
+                    <div class="skill html"></div>
+                </div>
+            </p>
+
+            <p class="p1">C++
+                <div class="skill-container">
+                    <div class="skill cplusplus"></div>
+                </div>
+            </p>
+
+            <p class="p1">CSS
+                <div class="skill-container">
+                    <div class="skill css"></div>
+                </div>
+            </p>
+        </div>
+        <br>
+
+        <div class="box-1">
+            <div class="heading">
+                <p>HOBBIES</p>
+            </div>
+
+            <div class="h-div">
+                <i class="material-icons icons2">camera_roll</i>
+                <i class="material-icons icons2">music_note</i>
+                <i class="material-icons icons2">sports_volleyball</i>
+                <i class="material-icons icons2">border_color</i>
+            </div>
+    </div>
+</br>
+<br>
+  <div class="right">
+    <div class="name-div">
+        <h4>ALVARADO ZAIJAN MARBELLA</h4>
+    </div>
+        <div class="box-2"></div>
+  </div>
+
+  </div>  
+</body>
+</html>
